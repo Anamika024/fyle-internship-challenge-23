@@ -9,7 +9,7 @@ import { ReactiveFormsModule } from '@angular/forms';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit{
-  title = 'git search engine';
+  title = 'fyle-frontend-challenge';
   constructor(
     private apiService: ApiService,
     private router: Router
